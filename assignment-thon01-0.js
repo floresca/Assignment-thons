@@ -50,5 +50,5 @@ function iWantToRent(val){
 }
 
 
-iWantToRent("sedans");
+iWantToRent("motor cycle");
 
